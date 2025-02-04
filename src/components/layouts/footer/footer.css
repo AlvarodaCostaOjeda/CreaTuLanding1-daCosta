@@ -1,0 +1,15 @@
+.footer {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  background-color: red;
+}
+
+.redes {
+  margin-left: auto;
+  margin-right: 0;
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  gap: 10px;
+}

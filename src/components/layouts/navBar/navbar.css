@@ -1,0 +1,17 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  background-color: red;
+}
+
+.categorias {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
+
+.logo {
+  margin-left: 0;
+  margin-right: auto;
+}
