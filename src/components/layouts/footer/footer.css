@@ -3,6 +3,10 @@
   flex-direction: row;
   padding: 10px;
   background-color: red;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
 }
 
 .redes {
